@@ -1,4 +1,4 @@
-# Transcriptomic characterization of HGSC patients
+# Multi-omics characterization of refractory HGSC patients
 This repository contains the supporting materials for the publication Afenteva et al. "Multi-Omics Analysis Reveals the Attenuation of the Interferon Pathway as a Driver of Chemo-Refractory Ovarian Cancer", 2024.
 
 The preprint is available here: https://www.biorxiv.org/content/10.1101/2024.03.28.587131v1
