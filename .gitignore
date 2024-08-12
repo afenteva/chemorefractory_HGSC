@@ -48,6 +48,8 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
+
+.DS_Store
 .pytest_cache/
 cover/
 
