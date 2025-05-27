@@ -21,4 +21,10 @@ The code related to the study is represented in the form of Jupyter Notebooks.
    cd chemorefractory_HGSC```
 
 ## Data Availability
-All raw DNA sequencing data are submitted to the European Genome-phenome Archive (EGA) under study accession number EGAS00001006775. Raw bulk RNA sequencing data are deposited in the EGA under study accession number EGAS00001004714. Through EGA, these raw sequencing data can be made available to qualified researchers. Quantified signals for t-CycIF data will be available in Synapse upon publication. Unpublished raw scRNA-seq data will be deposited in the EGA, and processed scRNA-seq data will be deposited in Gene Expression Omnibus (GEO) upon publication. Source data used in Fig. 3d and Extended Data Fig. 2a,c,d,e,f are provided in this paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
+•	Raw DNA sequencing data are deposited in the European Genome-phenome Archive (EGA) and are publicly available under study accession number EGAS00001006775.
+•	Raw bulk RNA sequencing data are deposited in the EGA and are publicly available under study accession number EGAS00001004714.
+•	Quantified signals for t-CycIF data are publicly available in Synapse (https://doi.org/10.7303/syn53283672).
+•	Raw single-cell RNA-seq data have been deposited in the EGA (study accession number EGAS00001004714), and processed single-cell RNA-seq data will be deposited in Gene Expression Omnibus (GEO) and publicly available as of the date of publication.
+•	All original code has been deposited at Zenodo at https://doi.org/10.5281/zenodo.14794619 and is publicly available as of the date of publication.
+•	Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
+
